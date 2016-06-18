@@ -1,0 +1,22 @@
+/* base style and phone*/
+
+p {
+        font-size: 25px;
+        text-align: left;
+}
+
+#weatherIcon {
+        width: 25px;
+        height: 25px
+}
+
+body {
+        background-color: skyblue;
+        font-size: 20px;
+}
+
+.container {
+        border: 3px solid white;
+        max-width: 300px;
+        margin-top: 100px;
+}
